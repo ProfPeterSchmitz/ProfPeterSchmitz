@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProfPeterSchmitz
+- 👋 Hi, I’m Prof Peter Schmitz
 - 👀 I’m interested in geoinformatics
 - 🌱 I’m currently learning open source GIS and workflows
 - 💞️ I’m looking to collaborate on (will update later, new to GitHub)
