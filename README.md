@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfPeterSchmitz
-- 👀 I’m interested in geoinformtics
+- 👀 I’m interested in geoinformatics
 - 🌱 I’m currently learning open source GIS and workflows
 - 💞️ I’m looking to collaborate on (will update later, new to GitHub)
 - 📫 How to reach me at schimpmu@unisa.ac.za
